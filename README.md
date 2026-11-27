@@ -42,7 +42,7 @@ A free, open alternative to **GrokBot (xAI)** and **Muse by Meta**. Bring your o
 
 ### 1. Download
 
-Grab the latest release from **[GitHub Releases](https://github.com/SuperConsoleAI/superconsole/releases)** and open **SuperConsole**.
+Grab the latest release from **[GitHub Releases](https://github.com/SuperConsoleAI/superconsole/releases/latest)** and open **SuperConsole**.
 
 ### 2. Connect Your AI Key (or Local Model)
 
